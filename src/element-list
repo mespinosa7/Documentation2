@@ -1,0 +1,14 @@
+com.example.midterm_manelespinosa
+com.example.midterm_manelespinosa.controller
+com.example.midterm_manelespinosa.dto
+com.example.midterm_manelespinosa.enums
+com.example.midterm_manelespinosa.excpetions
+com.example.midterm_manelespinosa.model
+com.example.midterm_manelespinosa.model.accounts
+com.example.midterm_manelespinosa.model.transactions
+com.example.midterm_manelespinosa.model.users
+com.example.midterm_manelespinosa.repository.accounts
+com.example.midterm_manelespinosa.repository.transactions
+com.example.midterm_manelespinosa.repository.users
+com.example.midterm_manelespinosa.security
+com.example.midterm_manelespinosa.service
